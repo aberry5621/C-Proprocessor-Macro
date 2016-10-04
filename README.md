@@ -1,6 +1,6 @@
 # C-Proprocessor-Macro
 
-
+#pre
 #define prog 1
 #if(prog == 1)
 
