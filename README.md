@@ -1,9 +1,1 @@
-# C-Proprocessor-Macro
-
-#pre
-#define prog 1
-#if(prog == 1)
-
-#elif(prog == 1)
-
-#endif
+THis is how to split a program up into several independet scripts
